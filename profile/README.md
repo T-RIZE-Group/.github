@@ -1,5 +1,7 @@
 # Welcome to the T-RIZE Group GitHub! 👋
 
+Here you will find **only the public code repositories** from our technologies.
+
 ## 🌟 About Us 🚀 
 Blockchain Powered Tokenization - The Next Generation of Value Creation
 
