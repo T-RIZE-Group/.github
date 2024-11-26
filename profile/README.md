@@ -25,4 +25,4 @@ Explore our ecosystem:
 - **T-RIZE Website**: [https://www.t-rize.io/](https://www.t-rize.io/)  
 - **Rizenet Website**: [https://rizenet.io/](https://rizenet.io/)  
 - **Documentation**: [https://docs.t-rize.io/](https://docs.t-rize.io/)
-- 
+
