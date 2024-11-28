@@ -4,7 +4,7 @@ Here you will find **only the public code repositories** from our technologies.
 
 ## 🌟 About Us 🚀 
 
-T-RIZE is a platform designed to make investing in quality assets straightforward and accessible to everyone. Our mission is built on three key pillars: **Democratization**, **Access**, and **Resilience**.
+**T-RIZE** is a platform designed to make investing in quality assets straightforward and accessible to everyone. Our mission is built on three key pillars: **Democratization**, **Access**, and **Resilience**.
 - **Democratization**: We open the door to investment opportunities that were once out of reach, allowing more people to participate in high-quality assets and helping to create a fairer financial ecosystem.
 - **Access**: T-RIZE connects investors with institutional networks and compliant distribution channels, ensuring secure and efficient transactions while bridging traditional and decentralized finance.
 - **Resilience**: Real World Assets (RWAs) offer stability and are backed by tangible value, making them less volatile and a dependable choice in any market condition.
