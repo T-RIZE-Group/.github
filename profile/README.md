@@ -1,3 +1,5 @@
+![t-rize banner 1500x500](https://github.com/user-attachments/assets/356375db-7283-4e93-9806-cd6a08f9aa4e)
+
 # Welcome to the T-RIZE Group GitHub! 👋
 
 Here you will find **only the public code repositories** from our technologies.
