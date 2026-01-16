@@ -19,10 +19,6 @@ Fundraise, distribute and invest with an institutional-grade tokenization platfo
 
 The T-RIZE Platform simplifies raising capital for your real estate projects by connecting you with a broader network of investors. We streamline ownership distribution and transactions, ensuring compliance, reducing financing costs, and unlocking more value from your assets.
 
-## 💰 Quests to Receive Airdrops 🌈   
-**Claim your share of $2.85M USD worth of Rize Tokens!**  
-Join now: [https://zealy.io/cw/rizenet/invite/cSexfWqiVnwCjReLE-Y9d](https://zealy.io/cw/rizenet/invite/cSexfWqiVnwCjReLE-Y9d)
-
 ## 📱 Social Media 🍿 
 Stay connected and up-to-date with us on social media:  
 - **X/Twitter**: [@trize_io](https://x.com/trize_io)  
